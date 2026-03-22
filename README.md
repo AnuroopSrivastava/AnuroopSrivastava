@@ -17,6 +17,74 @@
 
 ---
 
+## 💻 Tech Stack
+
+### 🚀 Core Expertise
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,nextjs,python" />
+</p>
+
+---
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,kotlin,php,r" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,jquery" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/TypeGraphQL-C04392?style=flat"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,firebase" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+</p>
+
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobe-lightroom"/>
+</p>
+
+### 🛠️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal"/>
+</p>
+
+---
+
+
 ## 📌 Currently Building
 - 🤖 AI-powered **SaaS tools & automation systems**  
 - 🌐 Scalable **MERN stack web applications**  
