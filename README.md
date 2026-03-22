@@ -10,6 +10,11 @@
   Building scalable web apps & AI-powered products that solve real-world problems.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnuroopSrivastava&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AnuroopSrivastava?label=Followers&style=for-the-badge&color=white&logo=github" />
+</p>
+
 ---
 
 ## 🎯 Personal Tagline
