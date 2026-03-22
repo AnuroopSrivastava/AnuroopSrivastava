@@ -17,6 +17,46 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anuroopsrivastava">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/anuroop.srivastava">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Anuroop_Sri">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@UC5MqIedJRyP_lM1FPMraQDw">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@anuroopsrivastava">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://quora.com/profile/Anuroop-Srivastava-1">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/anuroopsrivastava">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/t4fDC4e7nZ">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:anuroopkv2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🚀 Core Expertise
