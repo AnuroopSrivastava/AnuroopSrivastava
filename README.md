@@ -1,7 +1,3 @@
-Here’s a **clean, professional, and optimized GitHub profile README** version of your content. I’ve reduced clutter, improved wording, grouped skills, and made it more recruiter/startup-friendly 👇
-
----
-
 ## 🚀 About Me
 
 * 🔭 Building **full-stack web applications** using the **MERN stack** and modern AI tools
