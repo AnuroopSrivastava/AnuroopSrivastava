@@ -57,73 +57,110 @@
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### 🚀 Core Expertise
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,nextjs,python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 </p>
 
 ---
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,kotlin,php,r" />
-</p>
-
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,jquery" />
-</p>
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/TypeGraphQL-C04392?style=flat"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### ☁️ Cloud & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,firebase" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-</p>
-
-### 🎨 Design & Creative Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=photoshop" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro"/>
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects"/>
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobe-lightroom"/>
-</p>
-
-### 🛠️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r"/>
 </p>
 
 ---
 
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/>
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/TypeGraphQL-C04392?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
+</p>
+
+---
+
+### 🤖 AI / ML & Data
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
+
+---
+
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom"/>
+</p>
+
+---
+
+### 🛠️ Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell"/>
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal"/>
+</p>
+
+---
 
 ## 📌 Currently Building
 - 🤖 AI-powered **SaaS tools & automation systems**  
