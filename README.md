@@ -222,16 +222,6 @@
 
 ---
 
-## 💻 Tech Stack
-**Languages:** JavaScript, Python, C, C++, Kotlin  
-**Frontend:** React.js, Next.js, HTML, CSS  
-**Backend:** Node.js, Flask  
-**Databases:** MongoDB, MySQL  
-**Cloud:** Vercel, Netlify, Firebase, Google Cloud  
-**AI/ML:** TensorFlow, PyTorch, OpenCV, Scikit-learn  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnuroopSrivastava&show_icons=true&theme=tokyonight" />
